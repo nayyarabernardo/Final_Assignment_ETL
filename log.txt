@@ -1,0 +1,1 @@
+13:58:58-11/Oct/2022, ETL Job Started13:58:58-11/Oct/2022, Extract phase Started14:01:30-11/Oct/2022, ETL Job Started14:01:30-11/Oct/2022, Extract phase Started14:01:51-11/Oct/2022, ETL Job Started14:01:51-11/Oct/2022, Extract phase Started
